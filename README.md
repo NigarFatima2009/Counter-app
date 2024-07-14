@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/15c32688-6731-4ff5-aa4a-c8f9af7f6dd0
 The Counter component in React allows users to increment and reset a five-digit counter, always displaying leading zeros. Key features include conditional opacity styling for zeros, smooth visual transitions, and a gradient background. Hover effects add a blurred shadow for visual appeal, providing a clear and responsive interface for tracking counts.
 
 <a>
@@ -32,3 +34,7 @@ Visual Feedback:
 The component includes visual feedback for user interactions:
 The shadow effect on hover provides a visual cue that the counter is interactive.
 The opacity change of digits provides immediate feedback on the counter’s current value and highlights significant digits.
+
+
+https://github.com/user-attachments/assets/085a858a-e8b0-46ea-b056-f11407359a4e
+
