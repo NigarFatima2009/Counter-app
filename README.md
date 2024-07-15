@@ -5,34 +5,54 @@ The Counter component in React allows users to increment and reset a five-digit 
   <img src="src/Counter-app.png" alt="Example Image">
 </a>
 
+## Getting Started
 
-Leading Zero Formatting:
+These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
-The counter value is formatted to always display five digits, with leading zeros as needed. For example, 5 is displayed as 00005.
-<br/>
-Conditional Styling:
+### Prerequisites
 
-The component uses conditional styling to adjust the opacity of digits based on their value. This helps to distinguish significant digits from insignificant zeros.
-<br/>
+Make sure you have the following installed on your system:
 
-Responsive Design:
+- Node.js (v14.x or later)
+- npm (v6.x or later) or yarn (v1.x or later)
+- Git
 
-The CSS styles are designed to ensure the counter and buttons are positioned correctly and responsively within the component. This includes using flexbox for alignment and positioning.
-<br/>
+### Installation
 
-User Interaction:
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/NigarFatima2009/Counter-app.git
+    cd Counter-app
+    ```
 
-The component provides two buttons for user interaction:
-A large, invisible button for incrementing the counter.
-A small, invisible button for resetting the counter.
-These buttons are positioned using absolute positioning for precise control over their placement.
-<br/>
+2. **Install dependencies**:
+    If you are using npm:
+    ```bash
+    npm install
+    ```
+    Or if you are using yarn:
+    ```bash
+    yarn install
+    ```
 
-Visual Feedback:
+### Running the Project
 
-The component includes visual feedback for user interactions:
-The shadow effect on hover provides a visual cue that the counter is interactive.
-The opacity change of digits provides immediate feedback on the counter’s current value and highlights significant digits.
+1. **Start the development server**:
+    If you are using npm:
+    ```bash
+    npm start
+    ```
+    Or if you are using yarn:
+    ```bash
+    yarn start
+    ```
+
+2. **Open your browser and navigate to**:
+    ```
+    http://localhost:3000
+    ```
+
+    This will open the application in development mode.
 
 
 https://github.com/user-attachments/assets/085a858a-e8b0-46ea-b056-f11407359a4e
