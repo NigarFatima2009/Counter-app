@@ -55,5 +55,12 @@ Make sure you have the following installed on your system:
     This will open the application in development mode.
 
 
-https://github.com/user-attachments/assets/085a858a-e8b0-46ea-b056-f11407359a4e
+
+https://github.com/user-attachments/assets/06cd7f81-e111-4ab0-bfc4-d556af836184
+
+
+https://github.com/user-attachments/assets/a3b4abdc-1e51-4848-a0fb-8c64df0621da
+
+
+
 
